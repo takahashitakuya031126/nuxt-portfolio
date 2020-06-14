@@ -1,4 +1,4 @@
-# sample-nuxt
+# nuxt-portfolio
 
 > My world-class Nuxt.js project
 
